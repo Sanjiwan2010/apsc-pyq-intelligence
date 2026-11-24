@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://apsc-intel-fouquy4l.manus.space/sitemap.xml
+Sitemap: https://sanjiwan2010.github.io/apsc-pyq-intelligence/sitemap.xml
